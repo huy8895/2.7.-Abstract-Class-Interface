@@ -1,12 +1,12 @@
-package thuchanhlopanimalvainterfaceedible;
+package animalvainterfaceedible;
 
-import thuchanhlopanimalvainterfaceedible.animal.Animal;
-import thuchanhlopanimalvainterfaceedible.animal.Chicken;
-import thuchanhlopanimalvainterfaceedible.animal.Tiger;
-import thuchanhlopanimalvainterfaceedible.edible.Edible;
-import thuchanhlopanimalvainterfaceedible.fruit.Apple;
-import thuchanhlopanimalvainterfaceedible.fruit.Fruit;
-import thuchanhlopanimalvainterfaceedible.fruit.Orange;
+import animalvainterfaceedible.animal.Animal;
+import animalvainterfaceedible.animal.Chicken;
+import animalvainterfaceedible.animal.Tiger;
+import animalvainterfaceedible.edible.Edible;
+import animalvainterfaceedible.fruit.Apple;
+import animalvainterfaceedible.fruit.Fruit;
+import animalvainterfaceedible.fruit.Orange;
 
 public class AbstractAndInterfaceTest {
     public static void main(String[] args) {

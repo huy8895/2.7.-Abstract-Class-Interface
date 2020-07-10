@@ -1,4 +1,4 @@
-package thuchanhlopanimalvainterfaceedible.fruit;
+package animalvainterfaceedible.fruit;
 
 public class Orange extends Fruit {
     @Override

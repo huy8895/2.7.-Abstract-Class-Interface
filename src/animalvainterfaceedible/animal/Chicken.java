@@ -1,7 +1,7 @@
-package thuchanhlopanimalvainterfaceedible.animal;
+package animalvainterfaceedible.animal;
 
 
-import thuchanhlopanimalvainterfaceedible.edible.Edible;
+import animalvainterfaceedible.edible.Edible;
 
 public class Chicken extends Animal implements Edible {
     @Override

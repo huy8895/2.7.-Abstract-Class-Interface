@@ -1,6 +1,4 @@
-package thuchanhlopanimalvainterfaceedible.animal;
-
-import thuchanhlopanimalvainterfaceedible.animal.Animal;
+package animalvainterfaceedible.animal;
 
 public class Tiger extends Animal {
     @Override
