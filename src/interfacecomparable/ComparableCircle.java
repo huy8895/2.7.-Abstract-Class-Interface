@@ -2,7 +2,6 @@ package interfacecomparable;
 
 import interfaceresizeable.shape.Circle;
 
-import java.util.Comparator;
 
 public class ComparableCircle extends Circle
         implements Comparable<ComparableCircle> {
